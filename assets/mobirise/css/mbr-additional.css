@@ -973,6 +973,9 @@ a {
     left: -1rem;
   }
 }
+.cid-sa8b2F9Ugg {
+  background-image: url("../../../assets/images/business-png-1304x850.png");
+}
 .cid-sa8b2F9Ugg .mbr-section-title.display-2 {
   font-size: 40px;
   line-height: 1.25;
@@ -1277,17 +1280,6 @@ a {
 }
 .cid-rVs3Kv2A0B img {
   width: 100%;
-  -webkit-mask-box-image: url("../../../assets/images/blob1.svg");
-  mask-image: url("../../../assets/images/blob1.svg");
-  -webkit-mask-box-image-repeat: space;
-  -webkit-mask-position: center center;
-  mask-position: center center;
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-  height: auto;
-  max-width: 100%;
-  -webkit-mask-size: auto auto;
-  position: relative;
 }
 .cid-rVs3Kv2A0B .counter {
   top: 45%;
